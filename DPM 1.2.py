@@ -1,12 +1,20 @@
-'''
+'''________
+\______ \   ____ _____    ____
+ |    |  \_/ __ \\__  \  /    \
+ |    `   \  ___/ / __ \|   |  \
+/_______  /\___  >____  /___|  /
+        \/     \/     \/     \/
+.____               .__
+|    |    _______  _|__| ____   __________   ____
+|    |  _/ __ \  \/ /  |/    \ /  ___/  _ \ /    \
+|    |__\  ___/\   /|  |   |  \\___ (  <_> )   |  \
+|_______ \___  >\_/ |__|___|  /____  >____/|___|  /
+        \/   \/             \/     \/           \/
+
 CREATED BY DEAN LEVINSON - 2016
 
 DEAN'S PROGRAM MENU V1.2
 '''
-
-##### V1.2 Changelog: Added option to return to menu at the end of programs, removed triangle area calculator
-
-##### V1.1 Changelog: Added Triangle Area Calculator, Added exit option, Cleaned up code by breaking programs up into functions and then referencing them in the menu #####
 
 ###Importing libraries
 import sys
