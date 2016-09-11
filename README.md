@@ -1,2 +1,2 @@
-# Deans-Program-Menu
+# Dean's Program Menu
 A program suite.
