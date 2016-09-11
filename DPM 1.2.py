@@ -230,7 +230,7 @@ def SRAPC():
             except:
                 pass
             trianglecalculation=trianglecalculation.upper()
-            while trianglecalculation!='Area' and trianglecalculation!='Perimeter' and trianglecalculation!='area' and trianglecalculation!='perimeter':
+            while trianglecalculation!='AREA' and trianglecalculation!='PERIMETER':
                 print(" ")
                 print("Sorry, that's not a valid option. Please try again.")
                 print(" ")
