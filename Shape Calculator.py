@@ -16,8 +16,10 @@ CREATED BY DEAN LEVINSON - 2016
 SHAPE CALCULATOR V2.2
 '''
 
+#Importing
 import sys
 import subprocess
+
 print(" ")
 print("------------------------------------------------------------------------------------------------")
 print("Shape Calculator **SOFTWARE VERSION V2.2**")

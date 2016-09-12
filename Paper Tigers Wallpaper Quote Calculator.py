@@ -16,8 +16,10 @@ CREATED BY DEAN LEVINSON - 2016
 PAPER TIGERS WALLPAPER QUOTE CALCULATOR V1.2
 '''
 
+#Importing
 import sys
 import subprocess
+
 print(" ")
 print("------------------------------------------------------------------------------------------------")
 print("Paper Tigers Wallpapering Company Quote Calculator **SOFTWARE VERSION V1.2**")
