@@ -43,7 +43,7 @@ print("-------------------------------------------------------------------------
 print(" ")
 programoption=100
 try:
-    programoption=int(input("Enter the program option number you would like to select:"))
+    programoption=int(input("Enter the program option number you would like to select: "))
 except:
     pass
 while programoption==9 or programoption==963:
@@ -54,7 +54,7 @@ while programoption <0 or programoption >4:
     print("Sorry, that's not a valid program option")
     print(" ")
     try:
-            programoption=int(input("Enter the program option number you would like to select:"))
+            programoption=int(input("Enter the program option number you would like to select: "))
     except:
             pass
 
