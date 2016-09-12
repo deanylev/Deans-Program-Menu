@@ -15,9 +15,10 @@ CREATED BY DEAN LEVINSON - 2016
 
 PAPER TIGERS WALLPAPER QUOTE CALCULATOR ERROR ASSISTANT V1.1
 '''
-
+#Importing
 import sys
 import subprocess
+
 print(" ")
 print("------------------------------------------------------------------------------------------------")
 print("Paper Tigers Wallpapering Company Quote Calculator Error Assistant **SOFTWARE VERSION V1.1**")
