@@ -19,9 +19,9 @@ PAPER TIGERS WALLPAPER QUOTE CALCULATOR V1.2
 import sys
 import subprocess
 print(" ")
-print("----------------------------------------------------------------------------------")
+print("------------------------------------------------------------------------------------------------")
 print("Paper Tigers Wallpapering Company Quote Calculator **SOFTWARE VERSION V1.2**")
-print("----------------------------------------------------------------------------------")
+print("------------------------------------------------------------------------------------------------")
 print(" ")
 ## NUMBER OF ROOMS/WALLS SECTION ###
 

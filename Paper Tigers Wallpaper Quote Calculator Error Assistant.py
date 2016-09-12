@@ -19,9 +19,9 @@ PAPER TIGERS WALLPAPER QUOTE CALCULATOR ERROR ASSISTANT V1.1
 import sys
 import subprocess
 print(" ")
-print("----------------------------------------------------------------------------------")
+print("------------------------------------------------------------------------------------------------")
 print("Paper Tigers Wallpapering Company Quote Calculator Error Assistant **SOFTWARE VERSION V1.1**")
-print("----------------------------------------------------------------------------------")
+print("------------------------------------------------------------------------------------------------")
 print(" ")
 print("Hello! My name's Lionel, the paper tiger. I'm going to help diagnose the error you are receiving in our wallpaper quote calculator :-)")
 print(" ")
