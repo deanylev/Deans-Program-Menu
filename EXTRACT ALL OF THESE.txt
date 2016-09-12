@@ -1,0 +1,1 @@
+It's no good just running these on their own, you need to extract them (drag all of them into a folder) and run "Dean's Program Menu" so it can index all the other files.
