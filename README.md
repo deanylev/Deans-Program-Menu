@@ -1,2 +1,2 @@
 # Dean's Program Menu
-A program suite.
+A few Python apps I built for a school programming class.
